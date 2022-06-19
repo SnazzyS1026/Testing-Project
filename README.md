@@ -36,3 +36,18 @@ For example:
 Step 2: This will open the file in jupyter notebook for modification
 
 Step 3: Modify the file as needed locally on jupyter notebook
+
+Step 4: Check git status
+
+For example:
+(base)C:\Users\sandr> cd OneDrive\Desktop\Metis\DS_Engineering\Projects\file_name>git status
+
+Step 5: Add file to staging environment
+
+(base)C:\Users\sandr> cd OneDrive\Desktop\Metis\DS_Engineering\Projects\file_name>git add file_name  # such as README.md
+
+Step 6: Commit changes to git and add message to commit
+
+base)C:\Users\sandr> cd OneDrive\Desktop\Metis\DS_Engineering\Projects\file_name>git commit file_name -m "Notes about the commit"
+
+Step 7: Entire commit message for changes
