@@ -50,4 +50,8 @@ Step 6: Commit changes to git and add message to commit
 
 base)C:\Users\sandr> cd OneDrive\Desktop\Metis\DS_Engineering\Projects\file_name>git commit file_name -m "Notes about the commit"
 
-Step 7: Entire commit message for changes
+Step 7: Push changes onto github
+
+(base)C:\Users\sandr> cd OneDrive\Desktop\Metis\DS_Engineering\Projects\file_name>git push
+
+Step 8: The changes should show up on your github
